@@ -46,9 +46,12 @@ I ran into a storage issue during setup. I expanded the virtual disk and maximiz
 
 ## Why I'm Using CML
 
-One feature that attracted me to CML is the ability to connect a lab to real network equipment using external connectivity. I want to experiment with connecting virtual devices to physical devices on my home network.
+Two features made CML especially interesting to me:
 
-I also want to connect my CML environment to my existing GNS3 environment. The goal is to build services in CML and make them available to devices in GNS3.
+- **Connect to real equipment:** CML's External Connector feature can link a lab to external networks, giving me a way to experiment with connecting virtual devices to physical network equipment.
+- **Connect with GNS3:** I also want to link my CML environment with my existing GNS3 environment. My plan is to host shared services in CML, including servers and Cisco CME (Call Manager Express), then let devices in my GNS3 labs reach and use those services over the interconnection.
+
+These are two separate goals: external connectivity links CML to networks and physical devices outside the lab, while the CML-GNS3 connection will link two virtual lab environments so they can exchange traffic.
 
 ## What's Next
 
