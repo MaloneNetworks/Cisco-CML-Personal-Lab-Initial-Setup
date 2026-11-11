@@ -18,21 +18,31 @@ I started with CML Free and upgraded to CML Personal so I could build bigger net
 - **Memory:** 22.6 GB
 - **Virtual disk:** 250 GB
 
-## What I Did
+![VMware settings](screenshots/01-vmware-settings.png)
 
-- Installed CML Personal in VMware.
-- Registered and activated my license.
-- Installed the Cisco reference platform images.
-- Fixed the virtual CD/DVD connection issue.
-- Expanded the virtual disk and CML lab storage.
+## CML Is Up and Running
 
-## Screenshots
+CML is installed, licensed, and ready for lab work.
 
-Setup screenshots are in the [screenshots](screenshots/) folder. They show the VMware settings, CML dashboard, available node images, and storage before and after the fix.
+![CML dashboard](screenshots/02-cml-dashboard.png)
 
-## Labs
+## Cisco Images
 
-My CML topologies and lab screenshots will go in the [labs](labs/) folder.
+These are the node types available in my CML setup.
+
+![Cisco node images](screenshots/03-cisco-node-images.png)
+
+## Storage Fix
+
+I ran into a storage issue during setup. I expanded the virtual disk and maximized CML's lab storage.
+
+**Before:**
+
+![Storage before](screenshots/04-storage-before.png)
+
+**After:**
+
+![Storage after](screenshots/05-storage-after.png)
 
 ## What's Next
 
