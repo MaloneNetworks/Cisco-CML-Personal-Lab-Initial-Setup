@@ -8,9 +8,15 @@ I started with CML Free and upgraded to CML Personal so I could build bigger net
 
 - **PC:** Alienware Aurora R16
 - **CPU:** Intel Core i7-14700F
-- **RAM:** 32 GB
+- **Host RAM:** 32 GB
 - **Hypervisor:** VMware Workstation
 - **Lab platform:** Cisco CML Personal
+
+### CML Virtual Machine
+
+- **CPU:** 6 vCPUs
+- **Memory:** 22.6 GB
+- **Virtual disk:** 250 GB
 
 ## What I Did
 
@@ -22,7 +28,7 @@ I started with CML Free and upgraded to CML Personal so I could build bigger net
 
 ## Screenshots
 
-Setup screenshots are in the [screenshots](screenshots/) folder.
+Setup screenshots are in the [screenshots](screenshots/) folder. They show the VMware settings, CML dashboard, available node images, and storage before and after the fix.
 
 ## Labs
 
